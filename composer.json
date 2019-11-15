@@ -1,0 +1,19 @@
+{
+  "name": "workouse/esenlik-php-client",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Ömer Büyükçelik",
+      "email": "omerbuyukcelik@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Workouse\\": "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.4",
+    "ext-json": "*"
+  }
+}
