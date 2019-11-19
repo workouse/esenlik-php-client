@@ -1,6 +1,8 @@
 {
   "name": "workouse/esenlik-php-client",
   "type": "library",
+  "description": "It provides scheduling emails for sending with Swiftmailer or Mailgun.",
+  "license": "MIT",
   "authors": [
     {
       "name": "Ömer Büyükçelik",
